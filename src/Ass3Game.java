@@ -1,7 +1,7 @@
 /**
- * Main class that runs the game.
+ * Ass3Game class that runs the game.
  */
-public class Main {
+public class Ass3Game {
     /**
      * Main method that runs the game.
      * @param args command line arguments.
